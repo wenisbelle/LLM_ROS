@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/install/yolov8_msgs/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/install/custom_nav2_planner_plugin/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/install/custom_nav2_controller_plugin/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/install/custom_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/src/svtrp/csm/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/src/svtrp/custom_nav2_controller_plugin/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/src/svtrp/custom_nav2_costmap_plugin/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/src/svtrp/custom_nav2_planner_plugin/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/src/svtrp/kalman_filters/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/src/svtrp/robot_foxglove/include/**",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/src/svtrp/ros2_laser_scan_matcher/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

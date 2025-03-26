@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/home/wenis/Portifolio/ROS/LLM/LLM_Ros/LLM_course/src/robot_gazebo/models/vrc_heightmap_1/materials",
+    "ros.distro": "humble"
+}

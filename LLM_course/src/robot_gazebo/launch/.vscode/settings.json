@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/install/yolov8_msgs/local/lib/python3.10/dist-packages",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/install/custom_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/install/yolov8_msgs/local/lib/python3.10/dist-packages",
+        "/home/wenis/Portifolio/ROS/SVTRP/ros2/install/custom_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
